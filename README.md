@@ -2,6 +2,7 @@
 <h3 align="center">I'm a Software Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=martinaxgloria&label=Profile%20views&color=0e75b6&style=flat" alt="martinaxgloria" /> </p>
+<img align="right" alt="Coding" width="180" src=https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTlwdDZkcGVpa2c5MzFuYmhtaml4aGF0ZGYxYXhiZzJ0MzlzM25jYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ule4vhcY1xEKQ/giphy.gif>
 
 - 🔭 I’m currently working at **Italian Institute of Technology**
 
